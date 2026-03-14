@@ -1,0 +1,10 @@
+# Ignorar archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de configuración de IDEs
+.idea/
+.vscode/
+
+# Archivos de log
+*.log
